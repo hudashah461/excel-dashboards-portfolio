@@ -8,3 +8,4 @@ A collection of **Excel dashboards** across multiple domains. Each project folde
 Excel (PivotTables, PivotCharts, Slicers, Formulas, Conditional Formatting), Data Cleaning, KPI Design, Visualization, and Business Analysis.
 
 *Created by Noor Ul Huda Shah — Business Analyst with a keen eye for data visualization.*
+![Portfolio Cover](Common-Assets/cover.png)
